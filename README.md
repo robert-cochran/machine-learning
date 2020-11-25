@@ -1,2 +1,11 @@
-# neural-net
-getting a better understanding of neural networks by writing them from scratch 
+# Machine Learning
+Getting a better understanding of ML algorithms by writing them from scratch
+
+In Progress:
+- Simple Neural net
+
+To Do:
+- Linear Regression (LinR)
+  - First and second order
+  - convex and non-convex functions
+- Logisitic regression
