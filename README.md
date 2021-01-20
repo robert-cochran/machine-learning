@@ -27,11 +27,17 @@ Algorithms:
 - https://github.com/aburkov/theMLbook
 - https://colab.research.google.com/drive/1POYE-S8jkKEwJvOfJyxAGW9jG1lHwzpy
 
+
+Libraries:
+- https://github.com/openai/gym
+- https://developers.google.com/optimization
+
 Lists:
 - https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 - https://www.notion.so/The-Best-Artificial-Intelligence-Machine-Learning-and-Data-Science-Resources-b3b97fa097b747698e87fd3badc657cf
 - https://github.com/josephmisiti/awesome-machine-learning
 - https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
+- https://docs.mosek.com/modeling-cookbook/index.html
  
 Cloud: 
 - https://github.com/Azure/MachineLearningNotebooks
@@ -45,3 +51,6 @@ Current News:
 - DeepAI
 - Arxiv
 - JMLR
+
+Applications:
+- ML Web-Service with python and django https://news.ycombinator.com/item?id=24373459
