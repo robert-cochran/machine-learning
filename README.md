@@ -11,6 +11,8 @@ Getting a better understanding of ML algorithms by writing them from scratch
 		- First and second order
 		- convex and non-convex functions
 	- Logisitic regression
+- Add docker file
+- Improve test suite
 
 ### Languages:
 - julia
