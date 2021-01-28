@@ -1,6 +1,21 @@
 # Machine Learning
 Getting a better understanding of ML algorithms by writing them from scratch
 
+## Done:
+- Simple Neural net
+
+## To Do:
+### Models:
+- Regression
+	- Linear Regression (LinR)
+		- First and second order
+		- convex and non-convex functions
+	- Logisitic regression
+
+### Languages:
+- julia
+- python
+
 ## Models
 In Progress:
 - Simple Neural net
