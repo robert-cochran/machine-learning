@@ -1,5 +1,4 @@
 # Machine Learning
-Getting a better understanding of ML algorithms by writing them from scratch
 
 ## Done:
 - Simple Neural net
