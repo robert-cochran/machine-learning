@@ -8,6 +8,8 @@ from sklearn.metrics import mean_squared_error, r2_score
 # Load the diabetes dataset
 diabetes_X, diabetes_y = datasets.load_diabetes(return_X_y=True)
 
+print(diabetes_X.DESCR)
+
 # Use only one feature
 diabetes_X = diabetes_X[:, np.newaxis, 2]
 
@@ -46,4 +48,4 @@ plt.plot(diabetes_X_test, diabetes_y_pred, color='blue', linewidth=3)
 plt.xticks(())
 plt.yticks(())
 
-plt.show()
+# plt.show()

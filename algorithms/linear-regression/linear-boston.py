@@ -12,16 +12,19 @@ import random
 #3. print a graph showing the model against the data
 
 
-X, y = datasets.load_boston(return_X_y=True)
+boston_X, housingPrice_y = datasets.load_boston(return_X_y=True)
+print(boston_X.dtype.names)
 
-
-housingPrice = y
-avgRooms = X[:,4]
+# housingPrice = boston_y
+avgRooms_x = boston_X[:,4]
+print(avgRooms_x.shape)
 
 theta = random.random()
 beta = random.random()
 
 model = [theta, beta]
+
+
 
 
  

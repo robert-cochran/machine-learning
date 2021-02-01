@@ -39,7 +39,7 @@ if __name__ == "__main__":
     sns.set_style("whitegrid")
     plt.style.use("fivethirtyeight")
 
-    USAhousing = pd.read_csv('USA_Housing.csv')
+    USAhousing = pd.read_csv('../../exploratory/USA_Housing.csv')
     # print(USAhousing.head())
     # print(USAhousing.info())
     # print(USAhousing.describe())
