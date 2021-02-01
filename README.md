@@ -56,6 +56,7 @@ Lists:
 - https://github.com/josephmisiti/awesome-machine-learning
 - https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/
 - https://docs.mosek.com/modeling-cookbook/index.html
+- https://github.com/eugeneyan/ml-surveys
  
 Cloud: 
 - https://github.com/Azure/MachineLearningNotebooks
