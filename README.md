@@ -50,6 +50,7 @@ Libraries:
 - https://developers.google.com/optimization
 
 Lists:
+- https://github.com/SergeyShk/DataScience-Roadmap
 - https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 - https://www.notion.so/The-Best-Artificial-Intelligence-Machine-Learning-and-Data-Science-Resources-b3b97fa097b747698e87fd3badc657cf
 - https://github.com/josephmisiti/awesome-machine-learning
