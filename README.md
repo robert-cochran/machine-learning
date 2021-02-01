@@ -49,6 +49,7 @@ Libraries:
 - https://github.com/openai/gym
 - https://developers.google.com/optimization
 - https://github.com/alan-turing-institute/MLJBase.jl
+- https://github.com/SciML/DifferentialEquations.jl
 
 Lists:
 - https://github.com/SergeyShk/DataScience-Roadmap
