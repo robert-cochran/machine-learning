@@ -64,17 +64,17 @@ Cloud:
 - https://github.com/Azure/MachineLearningNotebooks
 
 Certs & Courses:
-- Intro to data science with python (coursera)
-- Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform (Coursera)
-- Serverless Data Analysis with Google BigQuery and Cloud Dataflow
-- Sequence Models (Coursera)
-- Convolutional Neural Networks (Coursera)
-- Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-- Neural Networks and Deep Learning (Coursera)
-- Structuring Machine Learning Projects (Coursera)
-- Intermedia Python for DataScience (DataCamp)
-- Deep Learning Foundations (Udacity - Nano Degree)
-- Artificial Intelligence (Udacity - Nano Degree)
+- [ ] Intro to data science with python (coursera)
+- [ ] Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform (Coursera)
+- [ ] Serverless Data Analysis with Google BigQuery and Cloud Dataflow
+- [ ] Sequence Models (Coursera)
+- [ ] Convolutional Neural Networks (Coursera)
+- [ ] Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+- [ ] Neural Networks and Deep Learning (Coursera)
+- [ ] Structuring Machine Learning Projects (Coursera)
+- [ ] Intermedia Python for DataScience (DataCamp)
+- [ ] Deep Learning Foundations (Udacity - Nano Degree)
+- [ ] Artificial Intelligence (Udacity - Nano Degree)
 
 
 Current News:
@@ -89,5 +89,3 @@ Current News:
 
 Applications:
 - ML Web-Service with python and django https://news.ycombinator.com/item?id=24373459
-
--  [] kskd
