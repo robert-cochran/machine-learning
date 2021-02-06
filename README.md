@@ -4,14 +4,9 @@
 - Simple Neural net
 
 ## To Do:
-### Models:
-- Regression
-	- Linear Regression (LinR)
-		- First and second order
-		- convex and non-convex functions
-	- Logisitic regression
 - Add docker file
 - Improve test suite
+- Find good datasets to explore
 
 ### Languages:
 - julia
