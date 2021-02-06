@@ -60,7 +60,7 @@ Cloud:
 
 Certs & Courses:
 - [ ] Intro to data science with python (coursera)
-- [ ] Leveraging Unstructured Data with Cloud Dataproc on Google Cloud Platform (Coursera)
+- [ ] End-to-End Machine Learning with TensorFlow on GCP (Coursera)
 - [ ] Serverless Data Analysis with Google BigQuery and Cloud Dataflow
 - [ ] Sequence Models (Coursera)
 - [ ] Convolutional Neural Networks (Coursera)
@@ -84,3 +84,6 @@ Current News:
 
 Applications:
 - ML Web-Service with python and django https://news.ycombinator.com/item?id=24373459
+
+Tools:
+- Dataproc (gcp)
