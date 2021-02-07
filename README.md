@@ -38,6 +38,7 @@ Algorithms:
 - https://github.com/aburkov/theMLbook
 - https://colab.research.google.com/drive/1POYE-S8jkKEwJvOfJyxAGW9jG1lHwzpy
 - https://github.com/ethen8181/machine-learning
+- https://github.com/eriklindernoren/ML-From-Scratch
 
 
 Libraries:
