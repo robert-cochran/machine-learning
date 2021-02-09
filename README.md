@@ -15,10 +15,7 @@ GCP Tools
 
 ---
 # Tasks
-## Done:
-- Simple Neural net
-
-## To Do:
+- [x] Simple Neural net
 - [ ] Add docker file
 - [ ] Improve test suite
 - [ ] Find good datasets to explore
