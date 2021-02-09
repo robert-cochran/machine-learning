@@ -1,9 +1,19 @@
 # Machine Learning
 
 - [Resources](./resources)
-- [Courses and Certifications currently being undertaken](./Courses)
+- [Courses and Certifications](./Courses)
+
+## Current News:
+- PapersWithCode, 42Papers, Deepmind, OpenAI, Google-Research github, DeepAI, Arxiv, JMLR
+
+## Applications:
+- ML Web-Service with python and django https://news.ycombinator.com/item?id=24373459
+
+## Tools:
+- Dataproc (gcp), apache beam, tensorflow, big query, 
 
 ---
+# Tasks
 ## Done:
 - Simple Neural net
 
@@ -17,11 +27,4 @@ To Do:
 - Logisitic regression
 
 
-Current News:
-- PapersWithCode, 42Papers, Deepmind, OpenAI, Google-Research github, DeepAI, Arxiv, JMLR
 
-Applications:
-- ML Web-Service with python and django https://news.ycombinator.com/item?id=24373459
-
-Tools:
-- Dataproc (gcp), apache beam, tensorflow, big query, 
