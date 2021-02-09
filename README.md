@@ -19,13 +19,11 @@ GCP Tools
 - Simple Neural net
 
 ## To Do:
-- Add docker file
-- Improve test suite
-- Find good datasets to explore
-
-To Do:
-- Linear Regression (1st & 2nd order, convex and non-convex fn's)
-- Logisitic regression
+- [ ] Add docker file
+- [ ] Improve test suite
+- [ ] Find good datasets to explore
+- [ ] Linear Regression (1st & 2nd order, convex and non-convex fn's)
+- [ ] Logisitic regression
 
 
 
