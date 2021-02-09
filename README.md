@@ -1,8 +1,9 @@
 # Machine Learning
 
-[Resources](./resources)
-[Courses and Certifications currently being undertaken](./Courses)
+- [Resources](./resources)
+- [Courses and Certifications currently being undertaken](./Courses)
 
+---
 ## Done:
 - Simple Neural net
 
