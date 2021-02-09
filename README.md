@@ -11,7 +11,7 @@
 
 ## Tools:
 GCP Tools
-- Dataproc (gcp), apache beam, tensorflow, big query, pipeline
+- Dataproc (gcp), apache beam, tensorflow, big query, data pipeline, cloud dataflow, cloud ml engine, cloud datalab, cloud storage, 
 
 ---
 # Tasks
