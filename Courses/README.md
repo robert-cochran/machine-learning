@@ -1,4 +1,6 @@
-#### Google Machine Learning Courses
+# Courses and Certifications
+
+## Google Machine Learning Courses
 - https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/courses/machine_learning/deepdive
 - [ ] Machine Learning with TensorFlow on Google Cloud Platform Specialization
   - https://github.com/thangtranquang/machine-learning-tensorflow-gcp
