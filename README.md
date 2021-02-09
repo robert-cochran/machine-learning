@@ -62,18 +62,6 @@ To Do:
 ### Certs & Courses:
 [Courses](./Courses)
 
-#### Misc.
-- [ ] Intro to data science with python (coursera)
-- [ ] Sequence Models (Coursera)
-- [ ] Convolutional Neural Networks (Coursera)
-- [ ] Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-- [ ] Neural Networks and Deep Learning (Coursera)
-- [ ] Structuring Machine Learning Projects (Coursera)
-- [ ] Intermedia Python for DataScience (DataCamp)
-- [ ] Deep Learning Foundations (Udacity - Nano Degree)
-- [ ] Artificial Intelligence (Udacity - Nano Degree)
-
-
 Current News:
 - PapersWithCode
 - 42Papers
