@@ -10,7 +10,8 @@
 - ML Web-Service with python and django https://news.ycombinator.com/item?id=24373459
 
 ## Tools:
-- Dataproc (gcp), apache beam, tensorflow, big query, 
+### GCP Tools
+- Dataproc (gcp), apache beam, tensorflow, big query, pipeline
 
 ---
 # Tasks
