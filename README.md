@@ -23,14 +23,14 @@ To Do:
 - Logisitic regression
 
 ## Resources
-Summaries:
+### Summaries:
   - The 100 page ml book: 
     - http://www.mlebook.com/wiki/doku.php, 
     - https://www.dropbox.com/s/qiq2c85cle9ydb6/Chapter3.pdf?dl=0
   - ML Mastery: https://machinelearningmastery.com/start-here/
   - Dive into ML: https://github.com/hangtwenty/dive-into-machine-learning
 
-Algorithms:
+### Algorithms:
 - https://github.com/rushter/MLAlgorithms
 - https://github.com/lazyprogrammer/machine_learning_examples
 - https://github.com/ZuzooVn/machine-learning-for-software-engineers
@@ -41,13 +41,13 @@ Algorithms:
 - https://github.com/eriklindernoren/ML-From-Scratch
 
 
-Libraries:
+### Libraries:
 - https://github.com/openai/gym
 - https://developers.google.com/optimization
 - https://github.com/alan-turing-institute/MLJBase.jl
 - https://github.com/SciML/DifferentialEquations.jl
 
-Lists:
+### Lists:
 - https://github.com/SergeyShk/DataScience-Roadmap
 - https://github.com/ujjwalkarn/Machine-Learning-Tutorials
 - https://www.notion.so/The-Best-Artificial-Intelligence-Machine-Learning-and-Data-Science-Resources-b3b97fa097b747698e87fd3badc657cf
@@ -56,13 +56,19 @@ Lists:
 - https://docs.mosek.com/modeling-cookbook/index.html
 - https://github.com/eugeneyan/ml-surveys
  
-Cloud: 
+### Cloud: 
 - https://github.com/Azure/MachineLearningNotebooks
 
-Certs & Courses:
-- [ ] Intro to data science with python (coursera)
+### Certs & Courses:
+#### Google Machine Learning Courses
+- https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/courses/machine_learning/deepdive
+- [ ] Machine Learning with TensorFlow on Google Cloud Platform Specialization
+  - https://github.com/thangtranquang/machine-learning-tensorflow-gcp
 - [ ] Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization
+  - https://github.com/ingonader/gcp-ml-02-advanced-ml-with-tf-on-gcp
   - [ ] End-to-End Machine Learning with TensorFlow on GCP (Coursera)
+    - https://github.com/VikramTiwari/end-to-end-machine-learning-with-google-cloud
+    - https://github.com/isacmoura/machine-learning-tf-google-cloud
   - [ ] 2...
   - [ ] 3...
   - [ ] 4...
@@ -85,6 +91,9 @@ Certs & Courses:
 - [ ] Preparing for the Google Cloud Professional Data Engineer Exam
 - [ ] Preparing for the Google Cloud Professional Cloud Architect Exam
 - [ ] Serverless Data Analysis with Google BigQuery and Cloud Dataflow
+
+#### Misc.
+- [ ] Intro to data science with python (coursera)
 - [ ] Sequence Models (Coursera)
 - [ ] Convolutional Neural Networks (Coursera)
 - [ ] Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
