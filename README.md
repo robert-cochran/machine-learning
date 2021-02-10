@@ -2,6 +2,7 @@
 
 - [Resources](./resources)
 - [Courses and Certifications](./courses)
+- [Papers (incl. repo's of papers)](./papers)
 
 ## Current News:
 - PapersWithCode, 42Papers, Deepmind, OpenAI, Google-Research github, DeepAI, Arxiv, JMLR
