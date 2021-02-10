@@ -1,7 +1,7 @@
 # Machine Learning
 
 - [Resources](./resources)
-- [Courses and Certifications](./Courses)
+- [Courses and Certifications](./courses)
 
 ## Current News:
 - PapersWithCode, 42Papers, Deepmind, OpenAI, Google-Research github, DeepAI, Arxiv, JMLR
