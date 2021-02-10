@@ -16,12 +16,11 @@ GCP Tools
 
 ---
 # Tasks
+- [ ] setup gcp project and access through api
 - [x] Simple Neural net
 - [ ] Add docker file
 - [ ] Improve test suite
-- [ ] Find good datasets to explore
-- [ ] Linear Regression (1st & 2nd order, convex and non-convex fn's)
-- [ ] Logisitic regression
+- [ ] Linear Regression (1st & 2nd order, convex and non-convex fn's) (Logisitic regression)
 
 
 
