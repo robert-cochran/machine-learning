@@ -4,9 +4,6 @@
 - [Courses and Certifications](./courses)
 - [Papers (incl. repo's of papers)](./papers)
 
-## Current News:
-- PapersWithCode, 42Papers, Deepmind, OpenAI, Google-Research github, DeepAI, Arxiv, JMLR
-
 ## Applications:
 - ML Web-Service with python and django https://news.ycombinator.com/item?id=24373459
 
