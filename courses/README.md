@@ -1,7 +1,11 @@
 # Courses and Certifications
 
-## Google Machine Learning Courses
-[All Google Cloud Platform course notes](https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/courses/machine_learning/deepdive)
+## Google ML Courses
+- [ ] [ML Crash Course](https://developers.google.com/machine-learning/crash-course/)
+- [ ] [Data Prep and Feature Engineering](https://developers.google.com/machine-learning/data-prep/)
+
+### Google + Coursera ML Courses
+[All Google Cloud Coursera Platform course notes](https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/courses/machine_learning/deepdive)
 - [ ] S01. Machine Learning with TensorFlow on Google Cloud Platform Specialization
   - [S01-ml-tf-gcp.thangtrangquang-courses-notes](https://github.com/thangtranquang/machine-learning-tensorflow-gcp)
 - [ ] S02. Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization
