@@ -6,9 +6,6 @@
 - [Applications](./applications)
 - [Tools](./tools)
 
-## Applications:
-- ML Web-Service with python and django https://news.ycombinator.com/item?id=24373459
-
 ## Tools:
 GCP Tools
 - Dataproc (gcp), apache beam, tensorflow, big query, data pipeline, cloud dataflow, cloud ai platform/ml engine, cloud datalab, cloud storage, 
