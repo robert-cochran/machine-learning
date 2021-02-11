@@ -1,6 +1,6 @@
 # Machine Learning
 
-- [Resources](./resources)
+- [Resources (Summaries, Algorithms, Libraries, Lists, Cloud)](./resources)
 - [Courses and Certifications](./courses)
 - [Papers (incl. repo's of papers)](./papers)
 - [Applications](./applications)
