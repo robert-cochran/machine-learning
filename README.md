@@ -12,7 +12,7 @@
 - [x] Simple Neural net
 - [ ] Add docker file
 - [ ] Improve test suite
-- [ ] Linear Regression (1st & 2nd order, convex and non-convex fn's) (Logisitic regression)
+- [ ] Regression (convex and non-convex fn's)
 
 
 
