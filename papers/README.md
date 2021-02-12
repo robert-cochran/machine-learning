@@ -7,6 +7,9 @@
   - [ ] HN https://news.ycombinator.com/item?id=26026182
 - [ ] ReBeL - Combining Deep Reinforcement Learning and Search for Imperfect-Information Games (Explained)
   - [ ] Video https://www.youtube.com/watch?v=BhUWvQmLzSk
+- [ ] Nyströmer: A Nyström-Based Algorithm for Approximating Self-Attention 
+  - [ ] HN - https://news.ycombinator.com/item?id=26105455
+  - [ ] Paper - https://www.youtube.com/watch?v=m-zrcmRd7E4&ab_channel=YannicKilcher
 
  ## Current News:
 - PapersWithCode, 42Papers, Deepmind, OpenAI, Google-Research github, DeepAI, Arxiv, JMLR
