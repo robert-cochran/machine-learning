@@ -8,11 +8,13 @@
 
 ---
 # Tasks
-- [ ] setup gcp project and access through api
-- [x] Simple Neural net
-- [ ] Add docker file
-- [ ] Improve test suite
-- [ ] Regression (convex and non-convex fn's)
+- [ ] Production
+  - [x] Add docker file
+  - [ ] setup gcp project and access through api
+  - [ ] Improve test suite
+- [ ] Models 
+  - [x] Simple Neural net
+  - [ ] Regression (convex and non-convex fn's)
 
 
 
