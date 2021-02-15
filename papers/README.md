@@ -18,6 +18,7 @@
 - [ ] DeepMind achieves SOTA image recognition with 8.7x faster training 
   - [ ] HN : https://news.ycombinator.com/item?id=26133798
   - [ ] Paper: High-Performance Large-Scale Image Recognition Without Normalization : https://arxiv.org/abs/2102.06171
+  - [ ] Code: https://github.com/deepmind/deepmind-research/tree/master/nfnets
 
 
  ## Papers/News Sources:
