@@ -13,6 +13,12 @@
 - [ ] MuZero
   - HN : https://news.ycombinator.com/item?id=25519176
   - Paper : https://arxiv.org/abs/1911.08265
+- [ ] Theory of Deep Learning : https://www.cs.princeton.edu/courses/archive/fall19/cos597B/lecnotes/bookdraft.pdf
+- [ ] Geometric Understanding of Deep Learning : https://arxiv.org/abs/1805.10451
+- [ ] DeepMind achieves SOTA image recognition with 8.7x faster training 
+  - [ ] HN : https://news.ycombinator.com/item?id=26133798
+  - [ ] Paper: High-Performance Large-Scale Image Recognition Without Normalization : https://arxiv.org/abs/2102.06171
+
 
  ## Papers/News Sources:
 - PapersWithCode, 42Papers, Deepmind, OpenAI, Google-Research github, DeepAI, Arxiv, JMLR
