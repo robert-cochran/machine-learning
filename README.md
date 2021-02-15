@@ -1,10 +1,10 @@
 # Machine Learning
 
-- [Resources (Summaries, Algorithms, Libraries, Lists, Cloud)](./resources/resources.md)
+- [Resources (Summaries, Algorithms, Libraries, Lists, Cloud)](./resources)
 - [Courses and Certifications](./courses)
-- [Papers (incl. repo's of papers)](./resources/papers.md)
-- [Applications](./resources/applications.md)
-- [Tools](./resources/tools.md)
+- [Papers (incl. repo's of papers)](./papers)
+- [Applications](./applications)
+- [Tools](./tools)
 
 ---
 # Tasks
