@@ -10,7 +10,8 @@
 # Tasks
 - [ ] Production
   - [x] Add docker file
-  - [ ] setup gcp project and access through api
+  - [x] setup gcp project and access through gsutil and gcloud api
+  - [ ] create and use a public model through gcloud
   - [ ] Improve test suite
 - [ ] Models 
   - [x] Simple Neural net
