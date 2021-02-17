@@ -4,3 +4,6 @@ GCP Tools
 
 Python
 - pandas, numpy,  
+
+## List
+- Awesome ML List - https://github.com/josephmisiti/awesome-machine-learning#tools-1
