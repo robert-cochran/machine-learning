@@ -16,7 +16,7 @@
 - https://colab.research.google.com/drive/1POYE-S8jkKEwJvOfJyxAGW9jG1lHwzpy
 - https://github.com/ethen8181/machine-learning
 - https://github.com/eriklindernoren/ML-From-Scratch
-
+- https://github.com/ShangtongZhang/DeepRL
 
 ## Libraries:
 - https://github.com/openai/gym
