@@ -13,6 +13,7 @@
   - https://machinelearningmastery.com/logistic-regression-with-maximum-likelihood-estimation/
 
 ## Collections
+- Global Optimizations: https://en.wikipedia.org/wiki/Global_optimization
 - https://github.com/rushter/MLAlgorithms
 - https://github.com/lazyprogrammer/machine_learning_examples
 - https://github.com/ZuzooVn/machine-learning-for-software-engineers
@@ -25,3 +26,6 @@
 ## Specific Examples
 - https://github.com/ShangtongZhang/DeepRL
 - https://github.com/jbrownlee?tab=repositories
+
+## Related
+- Complexity: https://en.wikipedia.org/wiki/Complexity
