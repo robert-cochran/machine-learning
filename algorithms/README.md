@@ -24,3 +24,4 @@
 
 ## Specific Examples
 - https://github.com/ShangtongZhang/DeepRL
+- https://github.com/jbrownlee?tab=repositories
