@@ -1,11 +1,15 @@
 # Resources
 
 ## Summaries:
-  - The 100 page ml book: 
-    - http://www.mlebook.com/wiki/doku.php, 
-    - https://www.dropbox.com/s/qiq2c85cle9ydb6/Chapter3.pdf?dl=0
-  - ML Mastery: https://machinelearningmastery.com/start-here/
-  - Dive into ML: https://github.com/hangtwenty/dive-into-machine-learning
+- Machine Learning Mastery:
+  - https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md
+- Huge list of ML Books:  
+  - https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md
+- The 100 page ml book: 
+  - http://www.mlebook.com/wiki/doku.php, 
+  - https://www.dropbox.com/s/qiq2c85cle9ydb6/Chapter3.pdf?dl=0
+- ML Mastery: https://machinelearningmastery.com/start-here/
+- Dive into ML: https://github.com/hangtwenty/dive-into-machine-learning
 
 ## Libraries:
 - https://github.com/openai/gym
