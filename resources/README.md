@@ -7,17 +7,6 @@
   - ML Mastery: https://machinelearningmastery.com/start-here/
   - Dive into ML: https://github.com/hangtwenty/dive-into-machine-learning
 
-## Algorithms:
-- https://github.com/rushter/MLAlgorithms
-- https://github.com/lazyprogrammer/machine_learning_examples
-- https://github.com/ZuzooVn/machine-learning-for-software-engineers
-- https://github.com/trekhleb/homemade-machine-learning
-- https://github.com/aburkov/theMLbook
-- https://colab.research.google.com/drive/1POYE-S8jkKEwJvOfJyxAGW9jG1lHwzpy
-- https://github.com/ethen8181/machine-learning
-- https://github.com/eriklindernoren/ML-From-Scratch
-- https://github.com/ShangtongZhang/DeepRL
-
 ## Libraries:
 - https://github.com/openai/gym
 - https://developers.google.com/optimization
