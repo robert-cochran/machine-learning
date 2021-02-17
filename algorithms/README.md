@@ -3,6 +3,7 @@
 ## Algos:
 - [ ] Simple Neural net
 - [ ] [Bayesian Optimisation](./bayesianopt)
+- https://machinelearningmastery.com/what-is-bayesian-optimization/
 - [ ] Cross Entropy
 
 ## Collections
