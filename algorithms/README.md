@@ -3,8 +3,14 @@
 ## Algos:
 - [ ] Simple Neural net
 - [ ] [Bayesian Optimisation](./bayesianopt)
-- https://machinelearningmastery.com/what-is-bayesian-optimization/
+  - https://machinelearningmastery.com/what-is-bayesian-optimization/
+  - https://towardsdatascience.com/a-parallel-implementation-of-bayesian-optimization-2ffcdb2733a2
 - [ ] Cross Entropy
+  - https://machinelearningmastery.com/cross-entropy-for-machine-learning/
+- [ ] KL Divergence
+  - https://machinelearningmastery.com/divergence-between-probability-distributions/
+- [ ] Logistic Regression
+  - https://machinelearningmastery.com/logistic-regression-with-maximum-likelihood-estimation/
 
 ## Collections
 - https://github.com/rushter/MLAlgorithms
