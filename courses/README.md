@@ -28,14 +28,16 @@
   - Course 3: Structuring Machine Learning Projects
   - Course 4: Convolutional Neural Networks
   - Course 5: Sequence Models
+
 - [ ] Tensorflow Developer Professional Certification
   - [ ] https://deeplearning.ai/program/tensorflow-developer-professional-certificate/
+
 - [ ] Google Cloud Data Engineer Certification
   - Learning Path: https://cloud.google.com/training/data-ml#data-engineer-learning-path
+
 - [ ] Google Professional Cloud Architect Certification
   - Learning Path: https://cloud.google.com/training/cloud-infrastructure#cloud-architect-learning-path
-- [ ] SRE and DevOps Engineer with Google Cloud Professional Certificate
-- [ ] Serverless Data Analysis with Google BigQuery and Cloud Dataflow
+
 
 ## Misc.
 - [ ] Intermedia Python for DataScience (DataCamp)
