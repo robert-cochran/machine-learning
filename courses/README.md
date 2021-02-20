@@ -7,17 +7,22 @@
 
 ### Google + Coursera ML Courses
 [All Google Cloud Coursera Platform course notes](https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/courses/machine_learning/deepdive)
-- [ ] S01. Machine Learning with TensorFlow on Google Cloud Platform Specialization
-  - [S01-ml-tf-gcp.thangtrangquang-courses-notes](https://github.com/thangtranquang/machine-learning-tensorflow-gcp)
-- [ ] S02. Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization
-  - [S02-adv-ml-tf-gcp.ingonader-course-notes](https://github.com/ingonader/gcp-ml-02-advanced-ml-with-tf-on-gcp)
-  - [ ] S02.C01. End-to-End Machine Learning with TensorFlow on GCP (Coursera)
-    - [vikramtiwari-course-notes](https://github.com/VikramTiwari/end-to-end-machine-learning-with-google-cloud)
-    - [isacmoura-course-notes](]https://github.com/isacmoura/machine-learning-tf-google-cloud)
-  - [ ] S02.C02. 
-  - [ ] S02.C03.
-  - [ ] S02.C04.
-  - [ ] S02.C05.
+- [ ] Professional Machine Learning Engineer Certification
+  - Learning Path: https://cloud.google.com/training/machinelearning-ai#data-scientist-learning-path
+    - [ ] Google Cloud Big Data & Machine Learning Fundamentals
+    - [ ] Perform Foundational Data, ML, and AI Tasks in Google Cloud
+    - [ ] Machine Learning with TensorFlow on Google Cloud Platform Specialization
+      - [S01-ml-tf-gcp.thangtrangquang-courses-notes](https://github.com/thangtranquang/machine-learning-tensorflow-gcp)
+    - [ ] Automate Interactions with Contact Center AI
+    - [ ] Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization
+      - [S02-adv-ml-tf-gcp.ingonader-course-notes](https://github.com/ingonader/gcp-ml-02-advanced-ml-with-tf-on-gcp)
+      - [x] S02.C01. End-to-End Machine Learning with TensorFlow on GCP (Coursera)
+        - [vikramtiwari-course-notes](https://github.com/VikramTiwari/end-to-end-machine-learning-with-google-cloud)
+        - [isacmoura-course-notes](]https://github.com/isacmoura/machine-learning-tf-google-cloud)
+    - [ ] Explore ML models with Explainable AI
+
+
+
 - [ ] Architecting with Google Kubernetes Engine Specialization
   - [ ] Google Cloud Platform Fundamentals: Core Infrastructure
   - [ ] 2...
