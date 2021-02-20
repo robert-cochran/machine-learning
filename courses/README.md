@@ -5,7 +5,7 @@
 - [ ] [ML Crash Course](https://developers.google.com/machine-learning/crash-course/)
 - [ ] [Data Prep and Feature Engineering](https://developers.google.com/machine-learning/data-prep/)
 
-### Google + Coursera ML Courses
+## Certifications
 [All Google Cloud Coursera Platform course notes](https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/courses/machine_learning/deepdive)
 - [ ] Professional Machine Learning Engineer Certification
   - Learning Path: https://cloud.google.com/training/machinelearning-ai#data-scientist-learning-path
@@ -20,26 +20,15 @@
         - [vikramtiwari-course-notes](https://github.com/VikramTiwari/end-to-end-machine-learning-with-google-cloud)
         - [isacmoura-course-notes](]https://github.com/isacmoura/machine-learning-tf-google-cloud)
     - [ ] Explore ML models with Explainable AI
-
-
-
-- [ ] Architecting with Google Kubernetes Engine Specialization
-  - [ ] Google Cloud Platform Fundamentals: Core Infrastructure
-  - [ ] 2...
-  - [ ] 3...
-  - [ ] 4...
-  - [ ] 5...
-- [ ] Data Engineering with Google Cloud Professional Certificate
-  - [ ] 1...
-  - [ ] 2...
-  - [ ] 3...
-  - [ ] 4...
-  - [ ] 5...
-- [ ] Cloud Architecture with Google Cloud Professional Certificate
-  - [ ] 1, 2, 3, 4, 5
+- [ ] Deeplearning.ai Deep Learning Specialisation
+  - https://deeplearning.ai/program/deep-learning-specialization/ , https://www.coursera.org/specializations/deep-learning
+- [ ] Tensorflow Developer Professional Certification
+  - [ ] https://deeplearning.ai/program/tensorflow-developer-professional-certificate/
+- [ ] Google Cloud Data Engineer Certification
+  - Learning Path: https://cloud.google.com/training/data-ml#data-engineer-learning-path
+- [ ] Google Professional Cloud Architect Certification
+  - Learning Path: https://cloud.google.com/training/cloud-infrastructure#cloud-architect-learning-path
 - [ ] SRE and DevOps Engineer with Google Cloud Professional Certificate
-- [ ] Preparing for the Google Cloud Professional Data Engineer Exam
-- [ ] Preparing for the Google Cloud Professional Cloud Architect Exam
 - [ ] Serverless Data Analysis with Google BigQuery and Cloud Dataflow
 
 ## Misc.
