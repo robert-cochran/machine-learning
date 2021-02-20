@@ -1,8 +1,7 @@
 # Courses and Certifications
 
 ## Courses
-- [All Google Cloud Coursera Platform course notes](https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/courses/machine_learning/deepdive)
-
+[All Google Cloud Coursera Platform course notes](https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/courses/machine_learning/deepdive)
 - [ ] [AI platform Overview](https://cloud.google.com/ai-platform/prediction/docs/sharing-models)
 - [ ] [ML Crash Course](https://developers.google.com/machine-learning/crash-course/)
 - [ ] [Data Prep and Feature Engineering](https://developers.google.com/machine-learning/data-prep/)
