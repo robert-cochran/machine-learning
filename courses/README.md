@@ -1,6 +1,6 @@
 # Courses and Certifications
 
-## Google ML Courses
+## Courses
 - [ ] [AI platform Overview](https://cloud.google.com/ai-platform/prediction/docs/sharing-models)
 - [ ] [ML Crash Course](https://developers.google.com/machine-learning/crash-course/)
 - [ ] [Data Prep and Feature Engineering](https://developers.google.com/machine-learning/data-prep/)
@@ -8,7 +8,7 @@
 ## Certifications
 [All Google Cloud Coursera Platform course notes](https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/courses/machine_learning/deepdive)
 - [ ] Professional Machine Learning Engineer Certification
-  - Learning Path: https://cloud.google.com/training/machinelearning-ai#data-scientist-learning-path
+  - [Learning Path(https://cloud.google.com/training/machinelearning-ai#data-scientist-learning-path)
     - [ ] Google Cloud Big Data & Machine Learning Fundamentals
     - [ ] Perform Foundational Data, ML, and AI Tasks in Google Cloud
     - [ ] Machine Learning with TensorFlow on Google Cloud Platform Specialization
