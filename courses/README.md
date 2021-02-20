@@ -22,6 +22,11 @@
     - [ ] Explore ML models with Explainable AI
 - [ ] Deeplearning.ai Deep Learning Specialisation
   - https://deeplearning.ai/program/deep-learning-specialization/ , https://www.coursera.org/specializations/deep-learning
+  - Course 1: Neural Nets and Deep Learning
+  - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
+  - Course 3: Structuring Machine Learning Projects
+  - Course 4: Convolutional Neural Networks
+  - Course 5: Sequence Models
 - [ ] Tensorflow Developer Professional Certification
   - [ ] https://deeplearning.ai/program/tensorflow-developer-professional-certificate/
 - [ ] Google Cloud Data Engineer Certification
@@ -32,12 +37,6 @@
 - [ ] Serverless Data Analysis with Google BigQuery and Cloud Dataflow
 
 ## Misc.
-- [ ] Intro to data science with python (coursera)
-- [ ] Sequence Models (Coursera)
-- [ ] Convolutional Neural Networks (Coursera)
-- [ ] Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
-- [ ] Neural Networks and Deep Learning (Coursera)
-- [ ] Structuring Machine Learning Projects (Coursera)
 - [ ] Intermedia Python for DataScience (DataCamp)
 - [ ] Deep Learning Foundations (Udacity - Nano Degree)
 - [ ] Artificial Intelligence (Udacity - Nano Degree)
