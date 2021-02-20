@@ -4,6 +4,7 @@
 [All Google Cloud Coursera Platform course notes](https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/courses/machine_learning/deepdive)
 - [ ] [AI platform Overview](https://cloud.google.com/ai-platform/prediction/docs/sharing-models)
 - [ ] [ML Crash Course](https://developers.google.com/machine-learning/crash-course/)
+- [ ] [Get started with Google Cloud](https://cloud.google.com/docs)
 - [ ] [Data Prep and Feature Engineering](https://developers.google.com/machine-learning/data-prep/)
 - [ ] Intermedia Python for DataScience (DataCamp)
 - [ ] Deep Learning Foundations (Udacity - Nano Degree)
@@ -42,8 +43,6 @@
   - Learning Path: https://cloud.google.com/training/cloud-infrastructure#cloud-architect-learning-path
 
 
-## Docs
-- GCP :  https://cloud.google.com/docs
 
 ## ML in Production
 - [ ] [How to deploy models into production](https://www.youtube.com/watch?v=-UYyyeYJAoQ)
