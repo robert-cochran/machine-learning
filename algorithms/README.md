@@ -11,6 +11,11 @@
   - https://machinelearningmastery.com/divergence-between-probability-distributions/
 - [ ] Logistic Regression
   - https://machinelearningmastery.com/logistic-regression-with-maximum-likelihood-estimation/
+- [ ] Time Series Analysis
+  - [ ] Basic
+    - https://www.machinelearningplus.com/time-series/time-series-analysis-python/
+  - [ ] ARIMA
+    - https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/   
 
 ## Collections
 - Global Optimizations: https://en.wikipedia.org/wiki/Global_optimization
