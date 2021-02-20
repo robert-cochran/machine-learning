@@ -42,6 +42,9 @@
   - Learning Path: https://cloud.google.com/training/cloud-infrastructure#cloud-architect-learning-path
 
 
+## Docs
+- GCP :  https://cloud.google.com/docs
+
 ## ML in Production
 - [ ] [How to deploy models into production](https://www.youtube.com/watch?v=-UYyyeYJAoQ)
 - [ ] https://stackoverflow.blog/2020/10/12/how-to-put-machine-learning-models-into-production/
