@@ -5,6 +5,7 @@
 - [ ] [Data Prep and Feature Engineering](https://developers.google.com/machine-learning/data-prep/)
 - [ ] [Data Science on GCP](https://github.com/GoogleCloudPlatform/data-science-on-gcp)
 - [ ] [AI platform Overview](https://cloud.google.com/ai-platform/prediction/docs/sharing-models)
+- [ ] [Python on Cloud](https://cloud.google.com/python/docs)
 
 ## Repos
 - [ ] [All Google Cloud Coursera Platform course notes](https://github.com/GoogleCloudPlatform/training-data-analyst/tree/master/courses/machine_learning/deepdive)
@@ -16,7 +17,7 @@
 - [ ] Artificial Intelligence (Udacity - Nano Degree)
 
 ## Certifications
-- [ ] Professional Machine Learning Engineer Certification
+- [ ] [Professional Machine Learning Engineer Certification](https://cloud.google.com/certification/machine-learning-engineer)
   - [Learning Path](https://cloud.google.com/training/machinelearning-ai#data-scientist-learning-path)
     - [ ] Google Cloud Big Data & Machine Learning Fundamentals
     - [ ] Perform Foundational Data, ML, and AI Tasks in Google Cloud
