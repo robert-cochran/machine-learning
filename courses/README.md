@@ -19,12 +19,12 @@
 ## Certifications
 - [ ] [Professional Machine Learning Engineer Certification](https://cloud.google.com/certification/machine-learning-engineer)
   - [Learning Path](https://cloud.google.com/training/machinelearning-ai#data-scientist-learning-path)
-    - [ ] Google Cloud Big Data & Machine Learning Fundamentals
-    - [ ] Perform Foundational Data, ML, and AI Tasks in Google Cloud
-    - [ ] Machine Learning with TensorFlow on Google Cloud Platform Specialization
+    1. [ ] Google Cloud Big Data & Machine Learning Fundamentals
+    2. [ ] Perform Foundational Data, ML, and AI Tasks in Google Cloud
+    3. [ ] [Machine Learning with TensorFlow on Google Cloud Platform Specialization](https://www.coursera.org/specializations/advanced-machine-learning-tensorflow-gcp)
       - [S01-ml-tf-gcp.thangtrangquang-courses-notes](https://github.com/thangtranquang/machine-learning-tensorflow-gcp)
-    - [ ] Automate Interactions with Contact Center AI
-    - [ ] Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization
+    4. [ ] Automate Interactions with Contact Center AI
+    5. [ ] Advanced Machine Learning with TensorFlow on Google Cloud Platform Specialization
       - [S02-adv-ml-tf-gcp.ingonader-course-notes](https://github.com/ingonader/gcp-ml-02-advanced-ml-with-tf-on-gcp)
       - [x] S02.C01. End-to-End Machine Learning with TensorFlow on GCP (Coursera)
         - [vikramtiwari-course-notes](https://github.com/VikramTiwari/end-to-end-machine-learning-with-google-cloud)
