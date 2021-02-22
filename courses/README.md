@@ -49,7 +49,8 @@
   - Learning Path: https://cloud.google.com/training/cloud-infrastructure#cloud-architect-learning-path
 
 ## Topics
-https://www.datascienceweekly.org/data-science-guides/data-science-getting-started-guide
+- https://www.datascienceweekly.org/data-science-guides/data-science-getting-started-guide
+- [Compare Platforms](https://cloud.google.com/docs/compare)
 
 ## ML in Production
 - [ ] [How to deploy models into production](https://www.youtube.com/watch?v=-UYyyeYJAoQ)
