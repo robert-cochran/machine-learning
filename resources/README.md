@@ -11,6 +11,9 @@
 - ML Mastery: https://machinelearningmastery.com/start-here/
 - Dive into ML: https://github.com/hangtwenty/dive-into-machine-learning
 
+## Books:
+- Book of Why - https://news.ycombinator.com/item?id=26379695
+
 ## Libraries:
 - https://github.com/openai/gym
 - https://developers.google.com/optimization
