@@ -11,10 +11,13 @@
 ---
 # Tasks
 - [ ] Production
-  - [x] Add docker file
-  - [x] setup gcp project and access through gsutil and gcloud api
-  - [ ] create and use a public model through gcloud
+  - [ ] offline simple  
+  - [x] dockerize
+  - [x] cloud (setup gcp project and access through gsutil and gcloud api)
   - [ ] Improve test suite
+  - [ ] gui
+- [ ] models
+  - [ ] image recog
 
 
 
