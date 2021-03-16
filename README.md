@@ -11,6 +11,7 @@
 ---
 # Tasks
 - [ ] Production
+  - [ ] shields + facerec project
   - [ ] offline simple  
   - [x] dockerize
   - [x] cloud (setup gcp project and access through gsutil and gcloud api)
