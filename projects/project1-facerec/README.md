@@ -1,4 +1,6 @@
 # Simple FaceRecognition
+## Run
+https://deepnote.com/project/Face-Recognition-Demo-SUZ6Yf5QQmy2FaVrDRMbTA/%2Fexample.ipynb
 ## Setup
 - Environment: Cloud
 - Notebook: Deepnote (cloud based jupyter notebook)
