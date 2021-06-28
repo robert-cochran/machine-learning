@@ -1,9 +1,10 @@
 # Simple FaceRecognition
 ## Setup
-- Environment (Cloud)
-- Deepnote (cloud based jupyter notebook)
-- Docker (Deepnote) 
-- Language (Python)
-- Library/Repo (https://github.com/ageitgey/face_recognition)
+- Environment: Cloud
+- Notebook: Deepnote (cloud based jupyter notebook)
+- Docker: Deepnote 
+- Language: Python
 ## Model
-- Image Classification
+- Data: Image 
+- Type: Classification
+- Repo: Prebuilt (https://github.com/ageitgey/face_recognition)
