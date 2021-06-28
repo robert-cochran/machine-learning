@@ -22,3 +22,36 @@
 
 
 
+ml
+
+setups
+- deepnote notebook (cloud)
+- jupyter notebook (local)
+- gcloud
+- azure
+	- artificial intelligence for developers
+	- machine learning for data scientists
+
+- scikit learn
+- tensorflow
+
+- creating models
+	- image classification (mnist)
+
+- using prebuilt models
+	- tensorflow model garden
+		- smart_reply (android)
+- kaggle dataset
+
+- textual models
+- video/image models
+
+- 5day data science course
+- data science on azure
+- knowledge academy
+
+- api
+- local dataset
+
+- python
+- java?
