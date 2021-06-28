@@ -7,4 +7,5 @@ gcp-production-ml-systems-syllabus-parsed.json
 notes-code-various-gcp-ml_v001.md
 notes-code-various-gcp-ml_v003.md
 
-*.DS_Store
+.DS_Store
+*/.DS_Store
