@@ -1,13 +1,13 @@
 # Machine Learning
 
-- [Algorithms](./algorithms)
-- [Resources (Summaries, Libraries, Lists, Cloud)](./resources)
-- [Courses and Certifications](./courses)
-- [Papers (incl. repo's of papers)](./papers)
-- [Applications](./applications)
-- [Tools](./tools)
-- [Production](./production)
-
+- [Projects](./projects) - Varied uses of ML from simple local applications to cloud based experiments 
+    - [Simple Face Recognition](./project1-facerec) - Dockerized Simple Facerecognition Algorithm
+    - [Azure](./project2-azure) - Using Azure Python SDK 
+    - [Algorithms](./project3-algorithms) - Selfwritten Algorithms
+    - [Applications](./project4-applications) - Using ML in a larger application
+    - [Google Cloud](./project5-gcloud) - Using Google Cloud services to train ML models
+    - [Exploratory HousePrices](./project6-houseprice) - Simple Datascience Exploration
+    
 ---
 # Tasks
 - [ ] Production
