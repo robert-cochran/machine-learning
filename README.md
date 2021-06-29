@@ -8,17 +8,6 @@
     - [Google Cloud](./project5-gcloud) - Using Google Cloud services to train ML models
     - [Exploratory HousePrices](./project6-houseprice) - Simple Datascience Exploration
     
----
-# Tasks
-- [ ] Production
-  - [ ] shields + facerec project
-  - [ ] offline simple  
-  - [x] dockerize
-  - [x] cloud (setup gcp project and access through gsutil and gcloud api)
-  - [ ] Improve test suite
-  - [ ] gui
-- [ ] models
-  - [ ] image recog
 
 ---
 # Resources
