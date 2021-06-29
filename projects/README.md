@@ -3,10 +3,19 @@
 ## setups
 - deepnote notebook (cloud)
 - jupyter notebook (local)
+- codespace
+    - https://docs.github.com/en/codespaces/getting-started-with-codespaces/getting-started-with-your-python-project-in-codespaces
 - gcloud
 - azure
-	- artificial intelligence for developers
-	- machine learning for data scientists
+    - artificial intelligence for developers
+    - machine learning for data scientists
+    - notebooks
+        - https://docs.microsoft.com/en-us/azure/machine-learning/how-to-run-jupyter-notebooks
+        - https://docs.microsoft.com/en-us/azure/machine-learning/samples-notebooks
+        - https://github.com/Azure/MachineLearningNotebooks
+        - https://notebooks.azure.com/
+        - https://azure.microsoft.com/en-au/services/machine-learning/#documentation
+    
 
 ## libs
 - scikit learn
